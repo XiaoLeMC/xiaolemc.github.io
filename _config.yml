@@ -20,8 +20,8 @@ baseurl: ''
 # Github
 github:
   enabled: true
-  owner: zhonger
-  repository: jekyll-theme-H2O-ac
+  owner: XiaoLeMC
+  repository: xiaolemc.github.io
 
 # PWA
 pwa:
@@ -69,7 +69,7 @@ nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: true
+  disqus: false
   disqus_url: 'https://h2o-ac.disqus.com/embed.js'
   waline: true
   waline_url: 'https://h2o-ac-waline.deta.dev/'
