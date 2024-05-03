@@ -1,7 +1,7 @@
 ---
 layout: archives
-home-title: Welcome to zhonger's blog!
-description: Writing, writing, writing ...
+home-title: Welcome to XiaoLeMC's blog!
+description: Lisan-AlGaib!
 permalink: /archives.html
 cover: https://gxyzoj.com/d/hzoj/file/517/ai-generated-8705017_1280.png
 cover_author: 'MeditativeKaleidoscope'
